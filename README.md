@@ -10,3 +10,5 @@ Aqui consta uma indicação de toda pesquisa que faço lá, como:
 
 ## Contato
 
+Email: ramonbhaskara@ufmg.br
+Cel: +55 31 9.9555-9693
