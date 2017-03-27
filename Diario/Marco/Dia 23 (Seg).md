@@ -10,5 +10,15 @@ E, também o evento da Semana do Cérebro como palestra que participei.
 Tentativa de abrir o Plugin Generator para entender melhor a ferramenta e modificar o RippleDetector, que acabou sendo frustrada. 
 Então pedi ajuda ao Eliezyer (Graduado em Eng. Biomédica pela UFABC que fez o RippleDetector) por email.
 
+- Trabalho de Graduação (Eliezyer)
+
+Terminei a leitura do Trabalho de Graduação do Eliezyer que discorre sobre o RippleDetector e os testes realizados para construí-lo. O que dá ideia para quais são os passos a serem seguidos para a implementação dos limiares no plugin:
+
+ 1. Saber como modificar o plugin pela ferramenta do Plugin Generator  
+ 2. Fazer a junção dos códigos sugeridos pelo Eliezyer (Os do GitHub, do .zip que ele enviou e o "content")  
+ 3. Realizar testes com o plugin modificado a partir de dados já simulados   
+ 4. Fazer as modificações necessárias para finalizar o plugin  
+ 5. Verificar questão do envio do plugin para o GitHub do Open Ephys
+
 ****
 [Voltar para Março](https://github.com/ramonbhaskara/Open-Lab-Book/edit/master/Diario/Marco)
