@@ -9,3 +9,6 @@ E, também o evento da Semana do Cérebro como palestra que participei.
 
 Tentativa de abrir o Plugin Generator para entender melhor a ferramenta e modificar o RippleDetector, que acabou sendo frustrada. 
 Então pedi ajuda ao Eliezyer (Graduado em Eng. Biomédica pela UFABC que fez o RippleDetector) por email.
+
+****
+[Março](https://github.com/ramonbhaskara/Open-Lab-Book/edit/master/Diario/Marco)
