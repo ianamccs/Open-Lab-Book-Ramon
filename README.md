@@ -12,3 +12,8 @@ Aqui consta uma indicação de toda pesquisa que faço lá, como:
 
 Email: ramonbhaskara@ufmg.br
 Cel: +55 31 9.9555-9693
+****
+
+## Currículo
+
+http://lattes.cnpq.br/1593131953023142
