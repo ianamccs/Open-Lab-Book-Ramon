@@ -20,5 +20,9 @@ Terminei a leitura do Trabalho de Graduação do Eliezyer que discorre sobre o R
  4. Fazer as modificações necessárias para finalizar o plugin  
  5. Verificar questão do envio do plugin para o GitHub do Open Ephys
 
+- Email Eliezyer
+
+Após entrar em contato com o Eliezyer consegui instalar o Projucer a partir do diretório "plugin-GUI" com o comando `$ git checkout plugin-generator` e posteriormente, no diretório "./plugin-GUI/Projucer/Builds/LinuxMakefile", com o comando `make`.
+
 ****
 [Voltar para Março](https://github.com/ramonbhaskara/Open-Lab-Book/edit/master/Diario/Marco)
