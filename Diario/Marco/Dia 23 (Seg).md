@@ -24,5 +24,11 @@ Terminei a leitura do Trabalho de Graduação do Eliezyer que discorre sobre o R
 
 Após entrar em contato com o Eliezyer consegui instalar o Projucer a partir do diretório "plugin-GUI" com o comando `$ git checkout plugin-generator` e posteriormente, no diretório "./plugin-GUI/Projucer/Builds/LinuxMakefile", com o comando `make`.
 
+Sendo que houve um erro: *fatal error: curl/curl.h: No such file or directory* que foi corrigido com o comando `sudo apt-get install libcurl4-openssl-dev`
+
+Então um segundo erro ocorreu: *fatal error: X11/extensions/Xrandr.h*, corrigido por `sudo apt-get install libxrandr-dev`
+
+E depois do terceiro erro: *fatal error: juce_File.h*, adicionando o header "juce_File.h" ao diretório "./plugin-GUI/PluginGenerator/JuceLibraryCode" o PluginGenerator deu certo!!
+
 ****
 [Voltar para Março](https://github.com/ramonbhaskara/Open-Lab-Book/edit/master/Diario/Marco)
