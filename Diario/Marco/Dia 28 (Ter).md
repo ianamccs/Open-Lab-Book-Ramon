@@ -12,7 +12,7 @@ Ao tentar rodar o plugin modificado no Open Ephys GUI (OEG) ocorreram alguns err
 
 E agora mudei de ideia sobre o Plugin Generator. Acredito que seja melhor modificar o código dos arquivos do RippleDetector que está funcionando que modificar os gerado pelo PluginGenerator que o Eliezyer me enviou.
 
- 1. Fazer testes com o código contidos no diretório ./plugin-GUI/Source/SPWRsDetector
+ 1. Fazer testes com o código contidos no diretório ./plugin-GUI/Source/SPWRsDetector tendo como base o plugin *Bandpass Filter*, que tem a funcionalidade (parâmetro numérico) que quero implementar.
  
 ****
 [Voltar para Março](https://github.com/ramonbhaskara/Open-Lab-Book/edit/master/Diario/Marco)
