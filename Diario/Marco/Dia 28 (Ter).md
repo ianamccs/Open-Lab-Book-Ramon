@@ -14,5 +14,11 @@ E agora mudei de ideia sobre o Plugin Generator. Acredito que seja melhor modifi
 
  1. Fazer testes com o código contidos no diretório ./plugin-GUI/Source/SPWRsDetector tendo como base o plugins que têm as características que quero implementar (*Bandpass Filter*, pelo parâmetro numérico e *Spike Detector*, pela largura do módulo).
  
+- Testes
+ 
+O teste de largura do módulo baseado no *Spike Detector* foi eficaz. Portanto em questão gráfica, acredito que será simples implementar as mudanças
+
+\1. Agora será necessário saber como juntar a parte gráfica na funcionalidade de modificação dos limiares de amplitude e tempo para o RippleDetector.
+ 
 ****
 [Voltar para Março](https://github.com/ramonbhaskara/Open-Lab-Book/edit/master/Diario/Marco)
