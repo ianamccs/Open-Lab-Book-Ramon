@@ -5,12 +5,12 @@
 Adicionei ao meu Lattes (http://lattes.cnpq.br/1593131953023142) o projeto de Iniciação Científica que estou fazendo aqui no NNC. 
 E, também o evento da Semana do Cérebro como palestra que participei.
 
-- Plugin Generator
+## - Plugin Generator
 
 Tentativa de abrir o Plugin Generator para entender melhor a ferramenta e modificar o RippleDetector, que acabou sendo frustrada. 
 Então pedi ajuda ao Eliezyer (Graduado em Eng. Biomédica pela UFABC que fez o RippleDetector) por email.
 
-- Trabalho de Graduação (Eliezyer)
+## - Trabalho de Graduação (Eliezyer)
 
 Terminei a leitura do Trabalho de Graduação do Eliezyer que discorre sobre o RippleDetector e os testes realizados para construí-lo. O que dá ideia para quais são os passos a serem seguidos para a implementação dos limiares no plugin:
 
@@ -20,7 +20,7 @@ Terminei a leitura do Trabalho de Graduação do Eliezyer que discorre sobre o R
  4. Fazer as modificações necessárias para finalizar o plugin  
  5. Verificar questão do envio do plugin para o GitHub do Open Ephys
 
-- Email Eliezyer
+## - Email Eliezyer
 
 Após entrar em contato com o Eliezyer consegui instalar o Projucer a partir do diretório "plugin-GUI" com o comando `$ git checkout plugin-generator` e posteriormente, no diretório "./plugin-GUI/Projucer/Builds/LinuxMakefile", com o comando `make`.
 
