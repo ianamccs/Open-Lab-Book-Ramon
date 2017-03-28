@@ -1,6 +1,6 @@
 # 27/03
 
-- Atualização do Lattes
+## - Atualização do Lattes
 
 Adicionei ao meu Lattes (http://lattes.cnpq.br/1593131953023142) o projeto de Iniciação Científica que estou fazendo aqui no NNC. 
 E, também o evento da Semana do Cérebro como palestra que participei.
