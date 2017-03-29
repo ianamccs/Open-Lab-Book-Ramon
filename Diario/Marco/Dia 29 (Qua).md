@@ -13,7 +13,9 @@ OBS.: Falar na comunidade do OE sobre o PluginGenerator
 
 ## - RippleDetector Testes 2
 
-O eixo XY da GUI dos plugins começa no ponto mais alto a esquerda. 
+O eixo XY da GUI dos plugins começa no ponto mais alto a esquerda. Os gráficos referentes ao *Input*, *Gate* e *Output* tem o eixo começando no início do Sinal a esquerda deles, não na esquerda superior.
+
+**Lembrar de adicionar as 3 Barrinhas à extrema direita**
  
 ****
 [Voltar para Março](https://github.com/ramonbhaskara/Open-Lab-Book/edit/master/Diario/Marco)
