@@ -16,6 +16,10 @@ OBS.: Falar na comunidade do OE sobre o PluginGenerator
 O eixo XY da GUI dos plugins começa no ponto mais alto a esquerda. Os gráficos referentes ao *Input*, *Gate* e *Output* tem o eixo começando no início do Sinal a esquerda deles, não na esquerda superior.
 
 **Lembrar de adicionar as 3 Barrinhas à extrema direita**
+
+Modifiquei algumas variáveis e funções no código do RippleDetector para saber como seria usar o código para implementar os dados que preciso. No entanto foi bastante perceptível que isso gerará muito trabalho. Portanto, volto à ideia de estudar o Plugin Generator para modificar o Ripple Detector.
+
+**Levar em conta também o plugin Phase Detector**
  
 ****
 [Voltar para Março](https://github.com/ramonbhaskara/Open-Lab-Book/edit/master/Diario/Marco)
