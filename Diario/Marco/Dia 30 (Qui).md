@@ -4,6 +4,10 @@
 
 Voltando a estudar o Plugin Generator. Agora a partir de uma ideia do Cleiton sobre fazer um novo plugin para os limiares, não um aumento das funcionalidades do Ripple Detector (O que, provavelmente, ficará mais bonito estéticamente e, talvez, mais fácil de se fazer).
 
+Ter em vista também que o plugin a ser criado deve ter um "on/off" para ser ativado ou desativado pelo plugin que será criado pela Iana (Plugin que lerá os dados do acelerômetro contido no chip da Intan e ativará ou destivará o meu plugin para que este não leia falsos positivos gerados por movimentos bruscos do rato de teste)
+
+Enviei um email para o Kirill (Criador do Plugin Generator) com o intuito de sugerir que ele pudesse modificar a página do Plugin Generator para incluir os passos para se criar a pasta referente a este no diretório do plugin-GUI. Sendo que a resposta dele foi bem rápida, informando que, por estar em construção ainda, o Plugin Generator, eles não colocara os passos na Wiki, visto que vão adicionar todo o processo no GitHub do OEG. Frizando que o que estaria em construção seria o referente ao Windows.
+
 ## - Pulse Pal
 
 Foi instalado hoje no meu computador o Mapple IDE e o Pulse Pal. Este, uma ferramenta de output para sinais vindos do software do OEG. A intenção de tê-lo instalado é realizar teste, quando no CTPMag, de malha fechada pra futuramente implementar isso em ratos.
