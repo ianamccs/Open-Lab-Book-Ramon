@@ -8,6 +8,8 @@ Ter em vista também que o plugin a ser criado deve ter um "on/off" para ser ati
 
 Enviei um email para o Kirill (Criador do Plugin Generator) com o intuito de sugerir que ele pudesse modificar a página do Plugin Generator para incluir os passos para se criar a pasta referente a este no diretório do plugin-GUI. Sendo que a resposta dele foi bem rápida, informando que, por estar em construção ainda, o Plugin Generator, eles não colocara os passos na Wiki, visto que vão adicionar todo o processo no GitHub do OEG. Frizando que o que estaria em construção seria o referente ao Windows.
 
+**Importante:** Para se criar um plugin no Plugin Generator, na última (das 3 iniciais) imagem do Tutorial é necessário selecionar uma pasta q contenha os módulos do PluginGenerator dentro. Esta pasta se encontra em ./plugin-GUI/JuceLibraryCode
+
 ## - Pulse Pal
 
 Foi instalado hoje no meu computador o Mapple IDE e o Pulse Pal. Este, uma ferramenta de output para sinais vindos do software do OEG. A intenção de tê-lo instalado é realizar teste, quando no CTPMag, de malha fechada pra futuramente implementar isso em ratos.
