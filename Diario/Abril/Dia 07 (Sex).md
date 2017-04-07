@@ -4,7 +4,7 @@
 
 Estou estudando o plugin *Bandpass Filter* para modificá-lo o suficiente para criar o plugin *Threshold Inputs*. Sendo que comecei a fazer modificações naquele depois de ter feito algumas tentativas falhas pois não havia apagado os plugins para depois contruir o que eu queria modificado. 
 
-- **É preciso saber como desvincular o *Threshold Inputs* do *Bandpass Filter* ao carregar todos os plugins juntos**
+- **É preciso saber como desvincular o *Threshold Inputs* do *Bandpass Filter* ao carregar todos os plugins juntos** - **FEITO**
 
 - **O que é ADC channels?**
 
