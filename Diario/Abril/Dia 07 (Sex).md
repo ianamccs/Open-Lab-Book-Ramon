@@ -13,5 +13,9 @@ As principais barreiras serão:
  1. Comunicar o *Threshold Inputs* com o *Ripple Detector*
  2. Comunicar o *Threshold Inputs* com o plugin da Iana pra fazer o on/off daquele
  
+## - Leitura do Livro
+
+## - Ripple Detecor
+ 
 ****
 [Voltar para Abril](https://github.com/ramonbhaskara/Open-Lab-Book/edit/master/Diario/Abril)
