@@ -8,6 +8,5 @@
 
 ## Aprendizados
 
-Mudei o tema do GitHub para preto, no link https://github.com/StylishThemes/GitHub-Dark, para ficar melhor visualmente e para diminuir o gasto de energia com luminosidade. Fica muito bom! kkk
-
-Ajudei o Gabriel a pegar N2 no DQ e colocar na Liquefadora.
+- Mudei o tema do GitHub para preto, no link https://github.com/StylishThemes/GitHub-Dark, para ficar melhor visualmente e para diminuir o gasto de energia com luminosidade. Fica muito bom! kkk
+- Ajudei o Gabriel a pegar N2 no DQ e colocar na Liquefadora.
