@@ -8,4 +8,5 @@
 
 ## Upload de Código
 
-
+- [ ] doido
+- [x] doido
