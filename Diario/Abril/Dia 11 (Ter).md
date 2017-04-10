@@ -2,4 +2,4 @@
 
 ## Afazeres
 
-- Estudar página de Issues q a Iana falou sobre comentários e checkbox
+- [ ] Estudar página de Issues q a Iana falou sobre comentários
